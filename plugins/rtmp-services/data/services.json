@@ -1733,6 +1733,18 @@
             "recommended": {
                 "keyint": 2
             }
+        },
+	{
+            "name": "Mux",
+            "servers": [
+                {
+                    "name": "Default",
+                    "url": "rtmps://global-live.mux.com"
+                }
+            ],
+            "recommended": {
+                "keyint": 2
+            }
         }
     ]
 }
